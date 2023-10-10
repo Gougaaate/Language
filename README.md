@@ -23,7 +23,9 @@ To get started with this Vocabulary Flashcard Generator, follow these steps:
    git clone https://github.com/Gougaaate/Language.git
    ```
 2. Run the script :
-   ```shell python3 src/main.py ```
+   ```
+   shell python3 src/main.py
+   ```
 3. It will generate flashcards based on the day that you are going to prompt
 
    ## Folder Structure
