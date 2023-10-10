@@ -28,10 +28,10 @@ To get started with this Vocabulary Flashcard Generator, follow these steps:
    ```
 3. It will generate flashcards based on the day that you are going to prompt
 
-   ## Folder Structure
+## Folder Structure
 
-   In the src/ folder : the code
-   In the text/ folder : files containing the day and the the vocabulary list
+- In the src/ folder : the code
+- In the text/ folder : files containing the day and the the vocabulary list
 
 ## License   
 This project is licensed under the MIT License, allowing you to use, modify, and distribute the software for personal or educational purposes.mit
