@@ -34,4 +34,4 @@ To get started with this Vocabulary Flashcard Generator, follow these steps:
 - In the text/ folder : files containing the day and the the vocabulary list
 
 ## License   
-This project is licensed under the MIT License, allowing you to use, modify, and distribute the software for personal or educational purposes.mit
+This project is licensed under the MIT License, allowing you to use, modify, and distribute the software for personal or educational purposes
