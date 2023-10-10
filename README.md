@@ -22,3 +22,14 @@ To get started with this Vocabulary Flashcard Generator, follow these steps:
    ```shell
    git clone https://github.com/Gougaaate/Language.git
    ```
+2. Run the script :
+   ```shell python3 src/main.py ```
+3. It will generate flashcards based on the day that you are going to prompt
+
+   ## Folder Structure
+
+   In the src/ folder : the code
+   In the text/ folder : files containing the day and the the vocabulary list
+
+## License   
+This project is licensed under the MIT License, allowing you to use, modify, and distribute the software for personal or educational purposes.mit
