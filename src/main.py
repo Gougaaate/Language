@@ -36,9 +36,6 @@ def indonesian(L1, L2, L3, L4, L5, L6, L7):
     
     day = int(input("Which day is it ? "))     # According to the day, different vocabulary. 
 
-    with open("../text/day.txt", 'w') as file:      # Remember the day in a .txt file
-        file.write(str(day + 1))
-
     if not day % 39:    # Highest dictionnary : viewed each 40 day
         for fr in L7_.keys():  # Going through all the dictionary 
 
@@ -121,6 +118,11 @@ def indonesian(L1, L2, L3, L4, L5, L6, L7):
         else:
             print("Nope")
             print(L1[fr])
+
+
+    with open("../text/day.txt", 'w') as file:      # Remember the day in a .txt file
+        file.write(str(day + 1))
+
     return L1, L2, L3, L4, L5, L6, L7
 
 
